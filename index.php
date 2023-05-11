@@ -7,7 +7,7 @@
     <title>test php</title>
 </head>
 <body>
-    <h1>Bonjour, je suis chez moi</h1>
+    <h1>Bonjour, ceci est un test</h1>
     <form action="data.php" method="$_POST">
         <input type="text" name="fname" id="fname" placeholder="Votre nom">
         <input type="text" name="lname" id="lname" placeholder="Votre nom de famille">
